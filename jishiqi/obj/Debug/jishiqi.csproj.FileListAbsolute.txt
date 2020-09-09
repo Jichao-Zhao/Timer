@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\bin\Debug\jishiqi.exe
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\bin\Debug\jishiqi.pdb
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.Form1.resources
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.Properties.Resources.resources
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.exe
+C:\Users\Administrator\source\repos\jishiqi\jishiqi\obj\Debug\jishiqi.pdb
